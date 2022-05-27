@@ -1,0 +1,7 @@
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\PROMEDIO_DE_NOTA\bin\Debug\PROMEDIO_DE_NOTA.exe.config
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\PROMEDIO_DE_NOTA\bin\Debug\PROMEDIO_DE_NOTA.exe
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\PROMEDIO_DE_NOTA\bin\Debug\PROMEDIO_DE_NOTA.pdb
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\PROMEDIO_DE_NOTA\obj\Debug\PROMEDIO_DE_NOTA.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\PROMEDIO_DE_NOTA\obj\Debug\PROMEDIO_DE_NOTA.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\PROMEDIO_DE_NOTA\obj\Debug\PROMEDIO_DE_NOTA.exe
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\PROMEDIO_DE_NOTA\obj\Debug\PROMEDIO_DE_NOTA.pdb

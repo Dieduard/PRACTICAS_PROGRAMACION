@@ -1,0 +1,7 @@
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\MESES_DEL_AÑO\bin\Debug\MESES_DEL_AÑO.exe.config
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\MESES_DEL_AÑO\bin\Debug\MESES_DEL_AÑO.exe
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\MESES_DEL_AÑO\bin\Debug\MESES_DEL_AÑO.pdb
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\MESES_DEL_AÑO\obj\Debug\MESES_DEL_AÑO.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\MESES_DEL_AÑO\obj\Debug\MESES_DEL_AÑO.exe
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\MESES_DEL_AÑO\obj\Debug\MESES_DEL_AÑO.pdb
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\MESES_DEL_AÑO\obj\Debug\MESES_DEL_AÑO.csprojAssemblyReference.cache

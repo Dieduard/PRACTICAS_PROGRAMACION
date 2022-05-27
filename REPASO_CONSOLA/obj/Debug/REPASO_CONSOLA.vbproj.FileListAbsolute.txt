@@ -1,0 +1,11 @@
+C:\Users\diego\Documents\REPASO_CONSOLA\bin\Debug\REPASO_CONSOLA.exe.config
+C:\Users\diego\Documents\REPASO_CONSOLA\bin\Debug\REPASO_CONSOLA.exe
+C:\Users\diego\Documents\REPASO_CONSOLA\bin\Debug\REPASO_CONSOLA.pdb
+C:\Users\diego\Documents\REPASO_CONSOLA\bin\Debug\REPASO_CONSOLA.xml
+C:\Users\diego\Documents\REPASO_CONSOLA\obj\Debug\REPASO_CONSOLA.vbprojAssemblyReference.cache
+C:\Users\diego\Documents\REPASO_CONSOLA\obj\Debug\REPASO_CONSOLA.Resources.resources
+C:\Users\diego\Documents\REPASO_CONSOLA\obj\Debug\REPASO_CONSOLA.vbproj.GenerateResource.cache
+C:\Users\diego\Documents\REPASO_CONSOLA\obj\Debug\REPASO_CONSOLA.vbproj.CoreCompileInputs.cache
+C:\Users\diego\Documents\REPASO_CONSOLA\obj\Debug\REPASO_CONSOLA.exe
+C:\Users\diego\Documents\REPASO_CONSOLA\obj\Debug\REPASO_CONSOLA.xml
+C:\Users\diego\Documents\REPASO_CONSOLA\obj\Debug\REPASO_CONSOLA.pdb

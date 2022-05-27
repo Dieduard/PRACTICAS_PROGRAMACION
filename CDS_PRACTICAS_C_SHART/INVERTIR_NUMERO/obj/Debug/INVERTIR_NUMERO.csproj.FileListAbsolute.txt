@@ -1,0 +1,7 @@
+C:\Users\diego\Desktop\CarpetaProtegida\CDS\CDS_PRACTICAS\CDS_PRACTICAS_C_SHART\INVERTIR_NUMERO\bin\Debug\INVERTIR_NUMERO.exe.config
+C:\Users\diego\Desktop\CarpetaProtegida\CDS\CDS_PRACTICAS\CDS_PRACTICAS_C_SHART\INVERTIR_NUMERO\bin\Debug\INVERTIR_NUMERO.exe
+C:\Users\diego\Desktop\CarpetaProtegida\CDS\CDS_PRACTICAS\CDS_PRACTICAS_C_SHART\INVERTIR_NUMERO\bin\Debug\INVERTIR_NUMERO.pdb
+C:\Users\diego\Desktop\CarpetaProtegida\CDS\CDS_PRACTICAS\CDS_PRACTICAS_C_SHART\INVERTIR_NUMERO\obj\Debug\INVERTIR_NUMERO.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\CarpetaProtegida\CDS\CDS_PRACTICAS\CDS_PRACTICAS_C_SHART\INVERTIR_NUMERO\obj\Debug\INVERTIR_NUMERO.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\CarpetaProtegida\CDS\CDS_PRACTICAS\CDS_PRACTICAS_C_SHART\INVERTIR_NUMERO\obj\Debug\INVERTIR_NUMERO.exe
+C:\Users\diego\Desktop\CarpetaProtegida\CDS\CDS_PRACTICAS\CDS_PRACTICAS_C_SHART\INVERTIR_NUMERO\obj\Debug\INVERTIR_NUMERO.pdb

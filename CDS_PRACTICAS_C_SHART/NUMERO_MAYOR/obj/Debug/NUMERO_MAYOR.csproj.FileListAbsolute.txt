@@ -1,0 +1,14 @@
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\NUMERO_MAYOR\bin\Debug\NUMERO_MAYOR.exe.config
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\NUMERO_MAYOR\bin\Debug\NUMERO_MAYOR.exe
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\NUMERO_MAYOR\bin\Debug\NUMERO_MAYOR.pdb
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\NUMERO_MAYOR\obj\Debug\NUMERO_MAYOR.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\NUMERO_MAYOR\obj\Debug\NUMERO_MAYOR.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\NUMERO_MAYOR\obj\Debug\NUMERO_MAYOR.exe
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\NUMERO_MAYOR\obj\Debug\NUMERO_MAYOR.pdb
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\NUMERO_MAYOR\bin\Debug\NUMERO_MAYOR.exe.config
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\NUMERO_MAYOR\bin\Debug\NUMERO_MAYOR.exe
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\NUMERO_MAYOR\bin\Debug\NUMERO_MAYOR.pdb
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\NUMERO_MAYOR\obj\Debug\NUMERO_MAYOR.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\NUMERO_MAYOR\obj\Debug\NUMERO_MAYOR.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\NUMERO_MAYOR\obj\Debug\NUMERO_MAYOR.exe
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\NUMERO_MAYOR\obj\Debug\NUMERO_MAYOR.pdb

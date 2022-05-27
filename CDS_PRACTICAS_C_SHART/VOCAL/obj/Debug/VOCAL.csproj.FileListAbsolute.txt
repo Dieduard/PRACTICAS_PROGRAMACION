@@ -1,0 +1,13 @@
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\VOCAL\bin\Debug\VOCAL.exe.config
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\VOCAL\bin\Debug\VOCAL.exe
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\VOCAL\bin\Debug\VOCAL.pdb
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\VOCAL\obj\Debug\VOCAL.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\VOCAL\obj\Debug\VOCAL.exe
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\VOCAL\obj\Debug\VOCAL.pdb
+C:\Users\diego\Desktop\XAMARIN\CDS_PRACTICAS_CONSOLA\CDS_PRACTICAS_C_SHART\VOCAL\bin\Debug\VOCAL.exe.config
+C:\Users\diego\Desktop\XAMARIN\CDS_PRACTICAS_CONSOLA\CDS_PRACTICAS_C_SHART\VOCAL\bin\Debug\VOCAL.exe
+C:\Users\diego\Desktop\XAMARIN\CDS_PRACTICAS_CONSOLA\CDS_PRACTICAS_C_SHART\VOCAL\bin\Debug\VOCAL.pdb
+C:\Users\diego\Desktop\XAMARIN\CDS_PRACTICAS_CONSOLA\CDS_PRACTICAS_C_SHART\VOCAL\obj\Debug\VOCAL.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\XAMARIN\CDS_PRACTICAS_CONSOLA\CDS_PRACTICAS_C_SHART\VOCAL\obj\Debug\VOCAL.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\XAMARIN\CDS_PRACTICAS_CONSOLA\CDS_PRACTICAS_C_SHART\VOCAL\obj\Debug\VOCAL.exe
+C:\Users\diego\Desktop\XAMARIN\CDS_PRACTICAS_CONSOLA\CDS_PRACTICAS_C_SHART\VOCAL\obj\Debug\VOCAL.pdb

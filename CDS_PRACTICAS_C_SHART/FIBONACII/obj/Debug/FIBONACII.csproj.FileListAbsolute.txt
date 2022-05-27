@@ -1,0 +1,7 @@
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\FIBONACII\bin\Debug\FIBONACII.exe.config
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\FIBONACII\bin\Debug\FIBONACII.exe
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\FIBONACII\bin\Debug\FIBONACII.pdb
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\FIBONACII\obj\Debug\FIBONACII.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\FIBONACII\obj\Debug\FIBONACII.exe
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\FIBONACII\obj\Debug\FIBONACII.pdb
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\FIBONACII\obj\Debug\FIBONACII.csprojAssemblyReference.cache

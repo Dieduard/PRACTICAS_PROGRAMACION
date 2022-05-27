@@ -1,0 +1,14 @@
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\IVA_PRODUCTO\bin\Debug\IVA_PRODUCTO.exe.config
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\IVA_PRODUCTO\bin\Debug\IVA_PRODUCTO.exe
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\IVA_PRODUCTO\bin\Debug\IVA_PRODUCTO.pdb
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\IVA_PRODUCTO\obj\Debug\IVA_PRODUCTO.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\IVA_PRODUCTO\obj\Debug\IVA_PRODUCTO.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\IVA_PRODUCTO\obj\Debug\IVA_PRODUCTO.exe
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\IVA_PRODUCTO\obj\Debug\IVA_PRODUCTO.pdb
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\IVA_PRODUCTO\bin\Debug\IVA_PRODUCTO.exe.config
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\IVA_PRODUCTO\bin\Debug\IVA_PRODUCTO.exe
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\IVA_PRODUCTO\bin\Debug\IVA_PRODUCTO.pdb
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\IVA_PRODUCTO\obj\Debug\IVA_PRODUCTO.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\IVA_PRODUCTO\obj\Debug\IVA_PRODUCTO.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\IVA_PRODUCTO\obj\Debug\IVA_PRODUCTO.exe
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\IVA_PRODUCTO\obj\Debug\IVA_PRODUCTO.pdb

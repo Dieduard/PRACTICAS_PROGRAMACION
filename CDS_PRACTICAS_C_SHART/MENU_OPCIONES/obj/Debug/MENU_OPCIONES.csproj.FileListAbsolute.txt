@@ -1,0 +1,7 @@
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\MENU_OPCIONES\bin\Debug\MENU_OPCIONES.exe.config
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\MENU_OPCIONES\bin\Debug\MENU_OPCIONES.exe
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\MENU_OPCIONES\bin\Debug\MENU_OPCIONES.pdb
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\MENU_OPCIONES\obj\Debug\MENU_OPCIONES.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\MENU_OPCIONES\obj\Debug\MENU_OPCIONES.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\MENU_OPCIONES\obj\Debug\MENU_OPCIONES.exe
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\MENU_OPCIONES\obj\Debug\MENU_OPCIONES.pdb

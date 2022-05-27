@@ -1,0 +1,6 @@
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\DIA_SEMA_X_NUMERO\bin\Debug\DIA_SEMA_X_NUMERO.exe.config
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\DIA_SEMA_X_NUMERO\bin\Debug\DIA_SEMA_X_NUMERO.exe
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\DIA_SEMA_X_NUMERO\bin\Debug\DIA_SEMA_X_NUMERO.pdb
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\DIA_SEMA_X_NUMERO\obj\Debug\DIA_SEMA_X_NUMERO.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\DIA_SEMA_X_NUMERO\obj\Debug\DIA_SEMA_X_NUMERO.exe
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\DIA_SEMA_X_NUMERO\obj\Debug\DIA_SEMA_X_NUMERO.pdb

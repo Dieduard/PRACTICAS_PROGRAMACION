@@ -1,0 +1,14 @@
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\ORDEN_NUMEROS\bin\Debug\ORDEN_NUMEROS.exe.config
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\ORDEN_NUMEROS\bin\Debug\ORDEN_NUMEROS.exe
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\ORDEN_NUMEROS\bin\Debug\ORDEN_NUMEROS.pdb
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\ORDEN_NUMEROS\obj\Debug\ORDEN_NUMEROS.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\ORDEN_NUMEROS\obj\Debug\ORDEN_NUMEROS.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\ORDEN_NUMEROS\obj\Debug\ORDEN_NUMEROS.exe
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\ORDEN_NUMEROS\obj\Debug\ORDEN_NUMEROS.pdb
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\ORDEN_NUMEROS\bin\Debug\ORDEN_NUMEROS.exe.config
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\ORDEN_NUMEROS\bin\Debug\ORDEN_NUMEROS.exe
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\ORDEN_NUMEROS\bin\Debug\ORDEN_NUMEROS.pdb
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\ORDEN_NUMEROS\obj\Debug\ORDEN_NUMEROS.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\ORDEN_NUMEROS\obj\Debug\ORDEN_NUMEROS.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\ORDEN_NUMEROS\obj\Debug\ORDEN_NUMEROS.exe
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\ORDEN_NUMEROS\obj\Debug\ORDEN_NUMEROS.pdb

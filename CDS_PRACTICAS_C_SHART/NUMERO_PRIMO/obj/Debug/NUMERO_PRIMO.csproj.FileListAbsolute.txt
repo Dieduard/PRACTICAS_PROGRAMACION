@@ -1,0 +1,6 @@
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\NUMERO_PRIMO\bin\Debug\NUMERO_PRIMO.exe.config
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\NUMERO_PRIMO\bin\Debug\NUMERO_PRIMO.exe
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\NUMERO_PRIMO\bin\Debug\NUMERO_PRIMO.pdb
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\NUMERO_PRIMO\obj\Debug\NUMERO_PRIMO.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\NUMERO_PRIMO\obj\Debug\NUMERO_PRIMO.exe
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\NUMERO_PRIMO\obj\Debug\NUMERO_PRIMO.pdb

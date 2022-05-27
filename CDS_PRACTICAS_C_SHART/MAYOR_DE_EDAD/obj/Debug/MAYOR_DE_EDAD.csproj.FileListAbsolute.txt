@@ -1,0 +1,12 @@
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\MAYOR_DE_EDAD\bin\Debug\MAYOR_DE_EDAD.exe.config
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\MAYOR_DE_EDAD\bin\Debug\MAYOR_DE_EDAD.exe
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\MAYOR_DE_EDAD\bin\Debug\MAYOR_DE_EDAD.pdb
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\MAYOR_DE_EDAD\obj\Debug\MAYOR_DE_EDAD.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\MAYOR_DE_EDAD\obj\Debug\MAYOR_DE_EDAD.exe
+C:\Users\diego\Desktop\CDS_PRACTICAS_C_SHART\MAYOR_DE_EDAD\obj\Debug\MAYOR_DE_EDAD.pdb
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\MAYOR_DE_EDAD\bin\Debug\MAYOR_DE_EDAD.exe.config
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\MAYOR_DE_EDAD\bin\Debug\MAYOR_DE_EDAD.exe
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\MAYOR_DE_EDAD\bin\Debug\MAYOR_DE_EDAD.pdb
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\MAYOR_DE_EDAD\obj\Debug\MAYOR_DE_EDAD.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\MAYOR_DE_EDAD\obj\Debug\MAYOR_DE_EDAD.exe
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\MAYOR_DE_EDAD\obj\Debug\MAYOR_DE_EDAD.pdb

@@ -1,0 +1,7 @@
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\BUCLE_WHILE\bin\Debug\BUCLE_WHILE.exe.config
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\BUCLE_WHILE\bin\Debug\BUCLE_WHILE.exe
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\BUCLE_WHILE\bin\Debug\BUCLE_WHILE.pdb
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\BUCLE_WHILE\obj\Debug\BUCLE_WHILE.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\BUCLE_WHILE\obj\Debug\BUCLE_WHILE.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\BUCLE_WHILE\obj\Debug\BUCLE_WHILE.exe
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\BUCLE_WHILE\obj\Debug\BUCLE_WHILE.pdb

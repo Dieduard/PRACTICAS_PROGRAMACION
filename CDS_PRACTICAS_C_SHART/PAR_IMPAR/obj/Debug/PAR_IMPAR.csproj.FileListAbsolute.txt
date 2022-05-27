@@ -1,0 +1,7 @@
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\PAR_IMPAR\bin\Debug\PAR_IMPAR.exe.config
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\PAR_IMPAR\bin\Debug\PAR_IMPAR.exe
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\PAR_IMPAR\bin\Debug\PAR_IMPAR.pdb
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\PAR_IMPAR\obj\Debug\PAR_IMPAR.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\PAR_IMPAR\obj\Debug\PAR_IMPAR.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\PAR_IMPAR\obj\Debug\PAR_IMPAR.exe
+C:\Users\diego\Desktop\CDS\CDS_PRACTICAS_C_SHART\PAR_IMPAR\obj\Debug\PAR_IMPAR.pdb
