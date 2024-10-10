@@ -1,0 +1,14 @@
+C:\Users\diego\source\repos\1.CURSO PROGRAMACION C#\CURSO_PROGRAMACION_DE_CSHARP\2.EJERCICIOS_PDF\bin\Debug\netcoreapp3.0\2.EJERCICIOS_PDF.exe
+C:\Users\diego\source\repos\1.CURSO PROGRAMACION C#\CURSO_PROGRAMACION_DE_CSHARP\2.EJERCICIOS_PDF\bin\Debug\netcoreapp3.0\2.EJERCICIOS_PDF.deps.json
+C:\Users\diego\source\repos\1.CURSO PROGRAMACION C#\CURSO_PROGRAMACION_DE_CSHARP\2.EJERCICIOS_PDF\bin\Debug\netcoreapp3.0\2.EJERCICIOS_PDF.runtimeconfig.json
+C:\Users\diego\source\repos\1.CURSO PROGRAMACION C#\CURSO_PROGRAMACION_DE_CSHARP\2.EJERCICIOS_PDF\bin\Debug\netcoreapp3.0\2.EJERCICIOS_PDF.runtimeconfig.dev.json
+C:\Users\diego\source\repos\1.CURSO PROGRAMACION C#\CURSO_PROGRAMACION_DE_CSHARP\2.EJERCICIOS_PDF\bin\Debug\netcoreapp3.0\2.EJERCICIOS_PDF.dll
+C:\Users\diego\source\repos\1.CURSO PROGRAMACION C#\CURSO_PROGRAMACION_DE_CSHARP\2.EJERCICIOS_PDF\bin\Debug\netcoreapp3.0\2.EJERCICIOS_PDF.pdb
+C:\Users\diego\source\repos\1.CURSO PROGRAMACION C#\CURSO_PROGRAMACION_DE_CSHARP\2.EJERCICIOS_PDF\obj\Debug\netcoreapp3.0\2.EJERCICIOS_PDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\1.CURSO PROGRAMACION C#\CURSO_PROGRAMACION_DE_CSHARP\2.EJERCICIOS_PDF\obj\Debug\netcoreapp3.0\2.EJERCICIOS_PDF.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\1.CURSO PROGRAMACION C#\CURSO_PROGRAMACION_DE_CSHARP\2.EJERCICIOS_PDF\obj\Debug\netcoreapp3.0\2.EJERCICIOS_PDF.AssemblyInfo.cs
+C:\Users\diego\source\repos\1.CURSO PROGRAMACION C#\CURSO_PROGRAMACION_DE_CSHARP\2.EJERCICIOS_PDF\obj\Debug\netcoreapp3.0\2.EJERCICIOS_PDF.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\1.CURSO PROGRAMACION C#\CURSO_PROGRAMACION_DE_CSHARP\2.EJERCICIOS_PDF\obj\Debug\netcoreapp3.0\2.EJERCICIOS_PDF.dll
+C:\Users\diego\source\repos\1.CURSO PROGRAMACION C#\CURSO_PROGRAMACION_DE_CSHARP\2.EJERCICIOS_PDF\obj\Debug\netcoreapp3.0\2.EJERCICIOS_PDF.pdb
+C:\Users\diego\source\repos\1.CURSO PROGRAMACION C#\CURSO_PROGRAMACION_DE_CSHARP\2.EJERCICIOS_PDF\obj\Debug\netcoreapp3.0\2.EJERCICIOS_PDF.genruntimeconfig.cache
+C:\Users\diego\source\repos\1.CURSO PROGRAMACION C#\CURSO_PROGRAMACION_DE_CSHARP\2.EJERCICIOS_PDF\obj\Debug\netcoreapp3.0\2.EJERCICIOS_PDF.csproj.AssemblyReference.cache

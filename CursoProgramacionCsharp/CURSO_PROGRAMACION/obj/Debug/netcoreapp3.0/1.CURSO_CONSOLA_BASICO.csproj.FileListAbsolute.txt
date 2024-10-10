@@ -1,0 +1,42 @@
+C:\Users\diego\source\repos\1.CURSO PROGRAMACION C#\CURSO_PROGRAMACION_DE_CSHARP\CURSO_PROGRAMACION\bin\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.exe
+C:\Users\diego\source\repos\1.CURSO PROGRAMACION C#\CURSO_PROGRAMACION_DE_CSHARP\CURSO_PROGRAMACION\bin\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.deps.json
+C:\Users\diego\source\repos\1.CURSO PROGRAMACION C#\CURSO_PROGRAMACION_DE_CSHARP\CURSO_PROGRAMACION\bin\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.runtimeconfig.json
+C:\Users\diego\source\repos\1.CURSO PROGRAMACION C#\CURSO_PROGRAMACION_DE_CSHARP\CURSO_PROGRAMACION\bin\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.runtimeconfig.dev.json
+C:\Users\diego\source\repos\1.CURSO PROGRAMACION C#\CURSO_PROGRAMACION_DE_CSHARP\CURSO_PROGRAMACION\bin\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.dll
+C:\Users\diego\source\repos\1.CURSO PROGRAMACION C#\CURSO_PROGRAMACION_DE_CSHARP\CURSO_PROGRAMACION\bin\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.pdb
+C:\Users\diego\source\repos\1.CURSO PROGRAMACION C#\CURSO_PROGRAMACION_DE_CSHARP\CURSO_PROGRAMACION\obj\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\1.CURSO PROGRAMACION C#\CURSO_PROGRAMACION_DE_CSHARP\CURSO_PROGRAMACION\obj\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\1.CURSO PROGRAMACION C#\CURSO_PROGRAMACION_DE_CSHARP\CURSO_PROGRAMACION\obj\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.AssemblyInfo.cs
+C:\Users\diego\source\repos\1.CURSO PROGRAMACION C#\CURSO_PROGRAMACION_DE_CSHARP\CURSO_PROGRAMACION\obj\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\1.CURSO PROGRAMACION C#\CURSO_PROGRAMACION_DE_CSHARP\CURSO_PROGRAMACION\obj\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.dll
+C:\Users\diego\source\repos\1.CURSO PROGRAMACION C#\CURSO_PROGRAMACION_DE_CSHARP\CURSO_PROGRAMACION\obj\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.pdb
+C:\Users\diego\source\repos\1.CURSO PROGRAMACION C#\CURSO_PROGRAMACION_DE_CSHARP\CURSO_PROGRAMACION\obj\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.genruntimeconfig.cache
+C:\Users\diego\source\repos\1.CURSO PROGRAMACION C#\CURSO_PROGRAMACION_DE_CSHARP\CURSO_PROGRAMACION\obj\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\CURSO_PROGRAMACION_Csharp\CURSO_PROGRAMACION_DE_CSHARP\CURSO_PROGRAMACION\bin\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.exe
+C:\Users\diego\source\repos\CURSO_PROGRAMACION_Csharp\CURSO_PROGRAMACION_DE_CSHARP\CURSO_PROGRAMACION\bin\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.deps.json
+C:\Users\diego\source\repos\CURSO_PROGRAMACION_Csharp\CURSO_PROGRAMACION_DE_CSHARP\CURSO_PROGRAMACION\bin\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.runtimeconfig.json
+C:\Users\diego\source\repos\CURSO_PROGRAMACION_Csharp\CURSO_PROGRAMACION_DE_CSHARP\CURSO_PROGRAMACION\bin\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.runtimeconfig.dev.json
+C:\Users\diego\source\repos\CURSO_PROGRAMACION_Csharp\CURSO_PROGRAMACION_DE_CSHARP\CURSO_PROGRAMACION\bin\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.dll
+C:\Users\diego\source\repos\CURSO_PROGRAMACION_Csharp\CURSO_PROGRAMACION_DE_CSHARP\CURSO_PROGRAMACION\bin\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.pdb
+C:\Users\diego\source\repos\CURSO_PROGRAMACION_Csharp\CURSO_PROGRAMACION_DE_CSHARP\CURSO_PROGRAMACION\obj\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\CURSO_PROGRAMACION_Csharp\CURSO_PROGRAMACION_DE_CSHARP\CURSO_PROGRAMACION\obj\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\CURSO_PROGRAMACION_Csharp\CURSO_PROGRAMACION_DE_CSHARP\CURSO_PROGRAMACION\obj\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\CURSO_PROGRAMACION_Csharp\CURSO_PROGRAMACION_DE_CSHARP\CURSO_PROGRAMACION\obj\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.AssemblyInfo.cs
+C:\Users\diego\source\repos\CURSO_PROGRAMACION_Csharp\CURSO_PROGRAMACION_DE_CSHARP\CURSO_PROGRAMACION\obj\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\CURSO_PROGRAMACION_Csharp\CURSO_PROGRAMACION_DE_CSHARP\CURSO_PROGRAMACION\obj\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.dll
+C:\Users\diego\source\repos\CURSO_PROGRAMACION_Csharp\CURSO_PROGRAMACION_DE_CSHARP\CURSO_PROGRAMACION\obj\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.pdb
+C:\Users\diego\source\repos\CURSO_PROGRAMACION_Csharp\CURSO_PROGRAMACION_DE_CSHARP\CURSO_PROGRAMACION\obj\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.genruntimeconfig.cache
+C:\Users\diego\source\repos\2.CURSO_PROGRAMACION_Csharp\CursoProgramacionCsharp\CURSO_PROGRAMACION\bin\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.exe
+C:\Users\diego\source\repos\2.CURSO_PROGRAMACION_Csharp\CursoProgramacionCsharp\CURSO_PROGRAMACION\bin\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.deps.json
+C:\Users\diego\source\repos\2.CURSO_PROGRAMACION_Csharp\CursoProgramacionCsharp\CURSO_PROGRAMACION\bin\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.runtimeconfig.json
+C:\Users\diego\source\repos\2.CURSO_PROGRAMACION_Csharp\CursoProgramacionCsharp\CURSO_PROGRAMACION\bin\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.runtimeconfig.dev.json
+C:\Users\diego\source\repos\2.CURSO_PROGRAMACION_Csharp\CursoProgramacionCsharp\CURSO_PROGRAMACION\bin\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.dll
+C:\Users\diego\source\repos\2.CURSO_PROGRAMACION_Csharp\CursoProgramacionCsharp\CURSO_PROGRAMACION\bin\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.pdb
+C:\Users\diego\source\repos\2.CURSO_PROGRAMACION_Csharp\CursoProgramacionCsharp\CURSO_PROGRAMACION\obj\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\2.CURSO_PROGRAMACION_Csharp\CursoProgramacionCsharp\CURSO_PROGRAMACION\obj\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\2.CURSO_PROGRAMACION_Csharp\CursoProgramacionCsharp\CURSO_PROGRAMACION\obj\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\2.CURSO_PROGRAMACION_Csharp\CursoProgramacionCsharp\CURSO_PROGRAMACION\obj\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.AssemblyInfo.cs
+C:\Users\diego\source\repos\2.CURSO_PROGRAMACION_Csharp\CursoProgramacionCsharp\CURSO_PROGRAMACION\obj\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\2.CURSO_PROGRAMACION_Csharp\CursoProgramacionCsharp\CURSO_PROGRAMACION\obj\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.dll
+C:\Users\diego\source\repos\2.CURSO_PROGRAMACION_Csharp\CursoProgramacionCsharp\CURSO_PROGRAMACION\obj\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.pdb
+C:\Users\diego\source\repos\2.CURSO_PROGRAMACION_Csharp\CursoProgramacionCsharp\CURSO_PROGRAMACION\obj\Debug\netcoreapp3.0\1.CURSO_CONSOLA_BASICO.genruntimeconfig.cache
